@@ -20,7 +20,7 @@ __all__ = ["register_licenseplates_voc"]
 
 
 CLASS_NAMES = [
-    "licenseplate",
+    "license_plate",
 ]
 
 
